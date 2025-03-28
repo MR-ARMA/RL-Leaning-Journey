@@ -29,6 +29,10 @@ just clone repository and run all cells , and this will:
 ### 🎞 **Training Progress GIF**  
 <img src="./images/training_progress.gif" width="500">
 
+### 🎯 **Whats happend actually**
+![Final Output](./images/output.png) 
+
+
 ## **Customization**  
 Modify `image_style` in `train.py` to generate different abstract patterns:  
 ```python
